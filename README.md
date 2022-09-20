@@ -3,8 +3,6 @@
 Created: September 19, 2022 6:34 PM
 Tags: Estudos
 
-# O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
-
 Este arquivo tem como objetivo a conclusão de um artigo para um desafio de projeto proposto pela Digital Innovation One inc. - DIO, com o propósito de registrar alguns conceitos básicos a cerca do papel dos bancos de dados SQL e NoSQL voltados ao contexto de engenharia de dados, mais específicamente.
 
 **O que é um Banco de Dados Relacional (SQL)?**
